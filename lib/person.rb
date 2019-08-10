@@ -1,6 +1,6 @@
 class Person
   def intialize(name)
-    @name = "Beyonce"
+    @name = name
   end
   def name=(name)
     @name = name
