@@ -1,5 +1,5 @@
 class Person
-  def famous
+  def initialize(Beyonce)
     puts "Beyonce"
   end
 end
